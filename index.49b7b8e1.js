@@ -1,0 +1,2 @@
+window.addEventListener("hashchange",function(){"#menu"===window.location.hash?document.body.classList.add("page__body--no-scrol"):document.body.classList.remove("page__body--no-scrol")});var e=document.getElementById("form"),t=document.getElementById("text"),n=document.getElementById("mail"),d=document.getElementById("textarea");e.addEventListener("submit",function(e){e.preventDefault(),t.value="",n.value="",d.value=""});
+//# sourceMappingURL=index.49b7b8e1.js.map
